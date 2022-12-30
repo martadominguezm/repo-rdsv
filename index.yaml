@@ -9,7 +9,7 @@ entries:
     name: accesschart
     type: application
     urls:
-    - https://martadom.github.io/nfv-lab/repo_rdsv/accesschart-0.1.0.tgz
+    - https://martadominguezm.github.io/nfv-lab/repo_rdsv/accesschart-0.1.0.tgz
     version: 0.1.0
   cpechart:
   - apiVersion: v2
@@ -20,6 +20,6 @@ entries:
     name: cpechart
     type: application
     urls:
-    - https://martadom.github.io/nfv-lab/repo_rdsv/cpechart-0.1.0.tgz
+    - https://martadominguezm.github.io/nfv-lab/repo_rdsv/cpechart-0.1.0.tgz
     version: 0.1.0
 generated: "2022-11-13T19:44:20.772735265+01:00"
